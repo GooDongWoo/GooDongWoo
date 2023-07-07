@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @GooDongWoo
+- 👋 Hi, I’m DongWoo Goo
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate with whoever
-- 📫 How to reach me > blog?
+- 📫 How to reach me > wendy1301@naver.com
