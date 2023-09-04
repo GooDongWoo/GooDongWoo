@@ -1,4 +1,4 @@
 - 👋 Hi, I’m DongWoo Goo
-- 👀 I’m interested in MLP
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning CS
 - 📫 How to reach me > wendy1301@naver.com
