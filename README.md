@@ -1,4 +1,5 @@
-- 👋 Hi, I’m DongWoo Goo
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning CS
-- 📫 How to reach me > wendy1301@naver.com
+- 👋 Hi, My name is DongWoo Goo
+- ✨ I majored CS and EE
+- 👀 I’m interested in web service operation
+- 🌱 I’m a newb of DL
+- 📫 How to reach: wendy1301@naver.com
