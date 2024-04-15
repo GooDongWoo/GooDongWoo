@@ -8,9 +8,8 @@
 </div>
 
 <div align="center">
-- 👋 Hi, My name is DongWoo Goo  <br>
-- ✨ I majored in CS and EE  <br>
-- 📫 How to reach: wendy1301@naver.com  <br>
+-  Hi, My name is DongWoo Goo, I majored in CS and EE  <br>
+-  How to reach: wendy1301@naver.com  <br>
 </div>
 
 
