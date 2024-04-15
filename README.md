@@ -1,6 +1,10 @@
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GooDongWoo)](https://github.com/GooDongWoo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GooDongWoo)](https://github.com/GooDongWoo)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw99)](https://solved.ac/gdw99/)
+</div>
+
 <div align="center">
 - 👋 Hi, My name is DongWoo Goo  <br>
 - ✨ I majored CS and EE  <br>
