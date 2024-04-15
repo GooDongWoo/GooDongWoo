@@ -9,9 +9,7 @@
 
 <div align="center">
 - 👋 Hi, My name is DongWoo Goo  <br>
-- ✨ I majored CS and EE  <br>
-- 👀 I’m interested in web service operation  <br>
-- 🌱 I’m a newb of DL  <br>
+- ✨ I majored in CS and EE  <br>
 - 📫 How to reach: wendy1301@naver.com  <br>
 </div>
 
