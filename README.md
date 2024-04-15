@@ -1,6 +1,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GooDongWoo)](https://github.com/GooDongWoo)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GooDongWoo)](https://github.com/GooDongWoo)
 <div align="center">
 - 👋 Hi, My name is DongWoo Goo  <br>
 - ✨ I majored CS and EE  <br>
