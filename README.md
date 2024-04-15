@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GooDongWoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GooDongWoo)](https://github.com/GooDongWoo)
 
 <div align="center">
 - 👋 Hi, My name is DongWoo Goo  <br>
