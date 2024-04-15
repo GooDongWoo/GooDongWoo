@@ -29,6 +29,6 @@
 
 <div align="center">
 
-<br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGooDongWoo%2Fhit-counter&count_bg=%23C8E5B2&title_bg=%23F97171&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+<br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGooDongWoo%2Fhit-counter&count_bg=%23C8E5B2&title_bg=%23F97171&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/GooDongWoo)  
 
 </div>
