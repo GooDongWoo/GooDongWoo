@@ -1,9 +1,11 @@
+
+<div align="center">
 - 👋 Hi, My name is DongWoo Goo
 - ✨ I majored CS and EE
 - 👀 I’m interested in web service operation
 - 🌱 I’m a newb of DL
 - 📫 How to reach: wendy1301@naver.com
-
+</div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
