@@ -9,7 +9,7 @@
 
 <div align="center">
 -  Hi, My name is DongWoo Goo, I majored in CS and EE  <br>
--  How to reach: <A href = "matilto:hey.wendy1301@naver.com" target = "blank" >wendy1301@naver.com  <br></A>
+-  How to reach: <A href = "matilto:wendy1301@naver.com" target = "blank" >wendy1301@naver.com  <br></A>
 </div>
 
 
