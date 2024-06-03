@@ -1,13 +1,14 @@
-<table style="border-collapse: collapse; width: 100%; text-align: center;">
+<table style="border-collapse: collapse; width: 100%; text-align: center; border:none;">
   <thead>
     <tr>
-      <th style="border: none;">
-        -  My name is DongWoo Goo, I major in CS and EE  <br>
+      <th>
+        -  My name is DongWoo Goo <br>
+        -  I major in CS and EE  <br>
         -  How to contact with me: 
           <a href = "mailto:wendy1301@naver.com" target = "blank" > wendy1301@naver.com  <br></a>
         </a>
       </th>
-      <th style="border: none;">
+      <th>
         <a href="https://solved.ac/gdw99/">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw99" alt="Solved.ac Profile">
         </a>
