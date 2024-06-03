@@ -1,17 +1,22 @@
-<div align="center">
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
+  <thead>
+    <tr>
+      <th style="border: none;">
+        -  My name is DongWoo Goo, I major in CS and EE  <br>
+        -  How to contact with me: 
+          <a href = "mailto:wendy1301@naver.com" target = "blank" > wendy1301@naver.com  <br></a>
+        </a>
+      </th>
+      <th style="border: none;">
+        <a href="https://solved.ac/gdw99/">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw99" alt="Solved.ac Profile">
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GooDongWoo)](https://github.com/GooDongWoo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GooDongWoo)](https://github.com/GooDongWoo)
--->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw99)](https://solved.ac/gdw99/)
-</div>
 
-<div align="center">
--  My name is DongWoo Goo, I major in CS and EE  <br>
--  How to contact with me: 
-  <a href = "mailto:wendy1301@naver.com" target = "blank" > wendy1301@naver.com  <br></a>
-</div>
 
 
 <div align=center><h1>📚 STACKS</h1></div>
