@@ -1,4 +1,4 @@
-<table style="border-collapse: collapse; width: 100%; text-align: center; border:none;">
+<table style="border-collapse: collapse; width: 100%; text-align: center; border: hidden;">
   <thead>
     <tr>
       <th>
