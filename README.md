@@ -1,6 +1,17 @@
+# DongWoo Goo
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGooDongWoo&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/GooDongWoo) 
+ <!--
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gdw9947@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev__harry) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/haesoo-y/) 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
+  -->
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw1301">
--  My name is DongWoo Goo <br>
--  I major in CS and EE  <br>
+
+### Who Am I
+
+- 😉 My name is DongWoo Goo <br>
+- 🥇 I major in CS and EE  <br>
 -  How to contact with me: 
   <a href = "mailto:wendy1301@naver.com" target = "blank" > wendy1301@naver.com <br></a>
 
