@@ -10,7 +10,7 @@
       </th>
       <th>
         <a href="https://solved.ac/gdw99/">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw99" alt="Solved.ac Profile">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw1301" alt="Solved.ac Profile">
         </a>
       </th>
     </tr>
