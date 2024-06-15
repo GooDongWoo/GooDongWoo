@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/haesoo-y/) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
   -->
-<a href="https://solved.ac/gdw1301/">
+<a href="https://solved.ac/gdw1301">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw1301">
 
 ### Who Am I
