@@ -1,25 +1,10 @@
-<table style="border-collapse: collapse; width: 100%; text-align: center; border: hidden;">
-  <thead>
-    <tr>
-      <th>
-        -  My name is DongWoo Goo <br>
-        -  I major in CS and EE  <br>
-        -  How to contact with me: 
-          <a href = "mailto:wendy1301@naver.com" target = "blank" > wendy1301@naver.com  <br></a>
-        </a>
-      </th>
-      <th>
-        <a href="https://solved.ac/gdw99/">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw1301" alt="Solved.ac Profile">
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw1301">
+-  My name is DongWoo Goo <br>
+-  I major in CS and EE  <br>
+-  How to contact with me: 
+  <a href = "mailto:wendy1301@naver.com" target = "blank" > wendy1301@naver.com <br></a>
 
-
-
-
+<br><br>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
   <h3>Language:<br></h3>
