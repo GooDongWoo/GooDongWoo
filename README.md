@@ -11,9 +11,9 @@
 
 ### Who Am I
 
-- 😉 My name is DongWoo Goo <br>
-- 🥇 I major in CS and EE  <br>
--  How to contact with me: 
+- My name is DongWoo Goo <br>
+- I major in CS and EE  <br>
+- How to contact with me: 
   <a href = "mailto:wendy1301@naver.com" target = "blank" > wendy1301@naver.com <br></a>
 
 <br>
