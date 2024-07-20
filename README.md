@@ -12,7 +12,7 @@
 ### Who Am I
 
 - My name is DongWoo Goo <br>
-- I major in CS and EE  <br>
+- I majored in CSE, EE(Computer Science Engineering, Electronic Engineering)  <br>
 - How to contact with me: 
   <a href = "mailto:wendy1301@naver.com" target = "blank" > wendy1301@naver.com <br></a>
 
