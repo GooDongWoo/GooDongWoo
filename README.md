@@ -63,7 +63,6 @@
 -->
 </div>
 
-<div align="center">
 ![snake gif](https://github.com/GooDongWoo/GooDongWoo/blob/output/github-contribution-grid-snake.gif)
-</div>
+
 
