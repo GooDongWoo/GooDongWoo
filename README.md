@@ -22,11 +22,12 @@
 - **Portfolio**: <a href="https://github.com/GooDongWoo/CV/blob/main/GooDongWoo_CV.pdf" target="blank">📄 CV</a>
 - **Contact**: <a href="mailto:wendy1301@naver.com" target="blank">📧 wendy1301@naver.com</a>
 
-### 🏆 Achievements
-- 🥇 **경희대 전자정보대학 수석 졸업** (총장상)
-- 📄 **J-KICS 저널 논문 게재** (공동 1저자)
-- 🏅 **전국 대학생 프로그래밍 경시대회 본선 진출** (ICPC)
-- 🎯 **경희대 프로그래밍 경시대회 우수상** (2등)
+### 🏆 Major Achievements
+- 🥇 **경희대학교 전자정보대학 수석 졸업** (총장상, 2025.02)
+- 📄 **J-KICS 저널 논문 게재** (제50권 제2호, pp.234-244, 2025.02) - 공동 1저자
+- 🏅 **전국 대학생 프로그래밍 경시대회(ICPC) 본선 진출** (43등, 2024)
+- 🥈 **경희대학교 프로그래밍 경시대회 우수상** (2등, 2024)
+- 🏆 **경희대학교 융합 학술제 포스터 최우수상** (2024)
 
 <br>
 
@@ -48,10 +49,14 @@
 
 ## 🤖 AI/ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ## 🌐 Web Development
@@ -93,32 +98,27 @@
 
 ### 🧠 [Multi-Exit Neural Network Research](https://github.com/GooDongWoo)
 **Dynamic Ensemble Strategy for Enhanced Model Performance**
-- 📄 **Published in J-KICS Journal** (제50권 제2호, 2025)
-- 🎯 **3% Accuracy Improvement** through entropy-based exit selection
-- 🚀 **PyTorch, ResNet-101, Vision Transformer**
+- 📄 **J-KICS 저널 논문 게재** (제50권 제2호, pp.234-244, 2025.02)
+- 🎯 **1.66%p 성능 향상** (CIFAR-100), **0.61%p 향상** (ImageNet-1K)
+- 🚀 **PyTorch, ResNet-101, Vision Transformer, 엔트로피 기반 앙상블**
 
 ### 🤖 [Multi-Exit Faster R-CNN (MEF)](https://github.com/GooDongWoo)
-**Adaptive Object Detection for Variable Computing Resources**
-- 🏆 **Co-First Author** in published research
-- ⚡ **50% Latency Reduction** with maintained accuracy
-- 🔬 **Lyapunov Optimization, PASCAL VOC**
+**변동하는 자원에 적응적인 객체 탐지 모델**
+- 🏆 **J-KICS 저널 논문 공동 1저자** (2025.02 게재)
+- ⚡ **50% 지연시간 감소** (Exit0 사용 시)
+- 🔬 **Lyapunov 최적화, PASCAL VOC, 동적 출구 선택**
 
-### 🌐 [Comprehensive IoT Smart Home System](https://github.com/GooDongWoo)
-**End-to-End IoT Solution with Multi-Layer Architecture**
-- 📱 **ESP32, Raspberry Pi, MQTT, Node-RED**
-- ☁️ **Firebase, AWS IoT Core Integration**
-- 🎛️ **Qt-based GUI Controller**
+### 🌐 [AGV 시스템 - SSAFY 최종 프로젝트](https://github.com/GooDongWoo)
+**엣지-클라우드 하이브리드 아키텍처 AGV 시스템**
+- 🏗️ **시스템 아키텍처 설계 및 전체 구현** (로봇팔 역기구학 제외)
+- 📡 **Raspberry Pi 엣지서버 + AWS EC2 중앙서버**
+- 🤖 **AGV 제어, MQTT 통신, C++ 서버 개발**
 
-</div>
-
----
-
-<div align="center">
-  
-## 📈 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GooDongWoo&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GooDongWoo&layout=compact&theme=radical&hide_border=true)
+### 🏠 [IoT Smart Home System](https://github.com/GooDongWoo)
+**종합적인 IoT 스마트홈 솔루션**
+- 📱 **ESP32, Raspberry Pi, MQTT, Node-RED 통합**
+- ☁️ **Firebase, AWS IoT Core, ThingSpeak 연동**
+- 🎛️ **Qt 기반 GUI 제어 인터페이스**
 
 </div>
 
