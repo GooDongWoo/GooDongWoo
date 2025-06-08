@@ -98,7 +98,6 @@
 
 ### 🧠 [Multi-Exit Neural Network Research](https://github.com/GooDongWoo)
 **Dynamic Ensemble Strategy for Enhanced Model Performance**
-- 📄 **J-KICS 저널 논문 게재** (제50권 제2호, pp.234-244, 2025.02)
 - 🎯 **1.66%p 성능 향상** (CIFAR-100), **0.61%p 향상** (ImageNet-1K)
 - 🚀 **PyTorch, ResNet-101, Vision Transformer, 엔트로피 기반 앙상블**
 
