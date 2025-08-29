@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>DongWoo Goo | Full-Stack AI Developer</h1>
+  <h1>🚀 DongWoo Goo | Full-Stack AI Developer</h1>
   <p>
     <strong>A developer constantly growing by competing with yesterday's self.</strong><br>
     I leverage a deep understanding of AI optimization and IoT systems to solve complex problems and build efficient, intelligent solutions.
@@ -21,12 +21,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
 <br>
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" style="padding-right: 20px;">
+    <td valign="top" width="60%">
       <h3>🎓 About Me</h3>
       <ul>
         <li><b>Name</b>: DongWoo Goo</li>
@@ -36,7 +35,7 @@
         <li><b>Portfolio</b>: <a href="https://github.com/GooDongWoo/CV/blob/main/GooDongWoo_CV.pdf" target="blank">📄 Resume (CV)</a></li>
       </ul>
     </td>
-    <td valign="top">
+    <td valign="top" width="40%">
       <h3>💡 Problem Solving</h3>
       <a href="https://solved.ac/gdw1301">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw1301" alt="Solved.ac Badge"/>
