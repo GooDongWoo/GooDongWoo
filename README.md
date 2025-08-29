@@ -74,7 +74,34 @@
     <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   </p>
   
-  </div>
+  <p><strong>Web Development & Database</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
+  </p>
+
+  <p><strong>Infra, Cloud & Tools</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </p>
+
+  <p><strong>Embedded, IoT & Protocols</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+    <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+    <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+    <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+    <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+  </p>
+</div>
 
 ---
 
@@ -87,6 +114,18 @@
 - **My Role**: As a co-first author, I adapted the Multi-Exit architecture to Faster R-CNN and designed/experimented with an algorithm to select the optimal exit point based on resource availability.
 - **Outcome**: Successfully demonstrated the model's ability to maintain stable performance in resource-constrained environments, leading to a publication in the J-KICS journal.
 - **Tech Stack**: `Python`, `PyTorch`, `OpenCV`, `NumPy`
+
+### 2. [Performance Enhancement of Multi-Exit Neural Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5123790)
+*Proposed a dynamic ensemble strategy that leverages multiple exits within a single model to achieve higher performance more efficiently than traditional ensemble methods.*
+- **My Role**: Implemented a novel ensemble technique using entropy to weigh the confidence of each exit's prediction, creating a more reliable final output.
+- **Outcome**: Achieved a **1.66%p** performance increase on CIFAR-100 and a **0.61%p** increase on ImageNet-1K.
+- **Tech Stack**: `PyTorch`, `ResNet-101`, `Vision Transformer (ViT)`, `TensorBoard`
+
+### 3. [Edge-Cloud Hybrid AGV Control System](https://github.com/GooDongWoo/AGVproject)
+*As a final project for SSAFY, I built an Automated Guided Vehicle (AGV) control system combining edge and cloud computing to ensure both real-time performance and scalability.*
+- **My Role**: Led the overall system architecture design. Developed the C++ based AGV control and communication server. Designed and implemented the data flow between Raspberry Pi edge servers and AWS cloud servers.
+- **Outcome**: Successfully constructed a hybrid system where real-time control is handled at the edge, while data analysis and monitoring are performed in the cloud.
+- **Tech Stack**: `C++`, `Python`, `AWS EC2`, `Raspberry Pi`, `MQTT`, `MySQL`
 
 ---
 
