@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>🚀 DongWoo Goo | Full-Stack AI Developer</h1>
+  <h1>DongWoo Goo | Full-Stack AI Developer</h1>
   <p>
     <strong>A developer constantly growing by competing with yesterday's self.</strong><br>
     I leverage a deep understanding of AI optimization and IoT systems to solve complex problems and build efficient, intelligent solutions.
