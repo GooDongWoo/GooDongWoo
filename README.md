@@ -11,18 +11,14 @@
 </div>
 
 <div align="center">
-  <a href="mailto:wendy1301@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/GooDongWoo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/%EB%8F%99%EC%9A%B0-%EA%B5%AC-43b270293/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-<br>
+  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wendy1301@naver.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/GooDongWoo)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](#)
 
+</div>
+
+<br>
 <a href="https://solved.ac/gdw1301">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gdw1301" alt="Solved.ac Badge"/>
 </a>
