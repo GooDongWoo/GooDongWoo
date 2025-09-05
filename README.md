@@ -14,7 +14,7 @@
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wendy1301@naver.com)
   [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/GooDongWoo)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](#)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EC%9A%B0-%EA%B5%AC-43b270293/)
   
 </div>
 
