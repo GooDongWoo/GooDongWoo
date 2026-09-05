@@ -90,7 +90,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><h2>Work Experience & Key Projects</h2></summary>
 
 ### Work Experience
