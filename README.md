@@ -14,7 +14,7 @@
 
   [![Interactive CV](https://img.shields.io/badge/CV-Interactive_Resume-111111?style=flat-square)](https://GooDongWoo.github.io/cv/)
   [![Tech Blog](https://img.shields.io/badge/Blog-GooDongWoo.github.io-333333?style=flat-square)](https://GooDongWoo.github.io)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-555555?style=flat-square)](www.linkedin.com/in/dongwoo-goo-43b270293)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-555555?style=flat-square)]([www.linkedin.com/in/dongwoo-goo-43b270293](https://www.linkedin.com/in/dongwoo-goo-43b270293/))
   [![Email](https://img.shields.io/badge/Email-wendy1301%40naver.com-777777?style=flat-square)](mailto:wendy1301@naver.com)
 
 </div>
